@@ -43,3 +43,5 @@ Example:
 ### 1.0.0
 
 Initial release of px-to-rem converter with basic px to rem conversion functionality.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

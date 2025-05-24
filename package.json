@@ -3,10 +3,36 @@
   "displayName": "px-to-rem",
   "description": "Convert px values to rem in your code with configurable root font size",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
   },
+  "keywords": [
+    "px",
+    "rem",
+    "px to rem",
+    "rem converter",
+    "css converter",
+    "px converter",
+    "unit converter",
+    "responsive design",
+    "responsive units",
+    "vscode extension",
+    "vscode",
+    "px2rem",
+    "rem units",
+    "frontend",
+    "web development",
+    "tailwind",
+    "sass",
+    "scss",
+    "less",
+    "html",
+    "style",
+    "visual studio code"
+  ],
   "categories": [
+    "Formatters",
     "Other"
   ],
   "activationEvents": [
@@ -65,5 +91,9 @@
     "webpack-cli": "^6.0.1",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HemendraKhatik/px-to-rem"
   }
 }
