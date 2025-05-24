@@ -1,5 +1,5 @@
 {
-  "name": "px-to-rem",
+  "name": "px-to-rem-converter",
   "displayName": "px-to-rem",
   "publisher": "HemendraKhatik",
   "description": "Convert px values to rem in your code with configurable root font size",
