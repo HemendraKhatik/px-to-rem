@@ -1,6 +1,7 @@
 {
   "name": "px-to-rem",
   "displayName": "px-to-rem",
+  "publisher": "HemendraKhatik",
   "description": "Convert px values to rem in your code with configurable root font size",
   "version": "0.0.1",
   "license": "MIT",
