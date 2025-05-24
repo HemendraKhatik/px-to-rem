@@ -40,8 +40,15 @@ Example:
 "px-to-rem.baseFontSize": 16
 ```
 
-### 1.0.0
+## 📜 Changelog
 
-Initial release of px-to-rem converter with basic px to rem conversion functionality.
+### 0.0.2
+
+- ✅ Lowered `engines.vscode` to support older VS Code versions
+- 🔽 Downgraded `@types/vscode` to match compatibility
+
+### 0.0.1
+
+- 🎉 Initial release with basic px → rem conversion functionality
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

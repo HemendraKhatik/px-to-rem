@@ -3,7 +3,7 @@
   "displayName": "px-to-rem",
   "publisher": "HemendraKhatik",
   "description": "Convert px values to rem in your code with configurable root font size",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.40.0"
